@@ -1,0 +1,16 @@
+# Datos privados
+datos/
+*.ics
+
+# Archivos del sistema
+.DS_Store
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Archivos temporales
+*.tmp
+*.log
+
